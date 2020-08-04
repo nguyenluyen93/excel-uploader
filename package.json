@@ -1,0 +1,51 @@
+{
+  "name": "excel-uploader",
+  "version": "0.1.0",
+  "description": "SNP Micro Excel Uploader Service",
+  "private": true,
+  "dependencies": {
+    "ag-grid-community": "^21.1.0",
+    "ag-grid-react": "^21.1.0",
+    "ajv": "^6.10.2",
+    "ajv-keywords": "^3.4.1",
+    "axios": "^0.19.0",
+    "cuid": "^2.1.6",
+    "date-fns": "^1.30.1",
+    "jwt-decode": "^2.2.0",
+    "lodash": "^4.17.15",
+    "polished": "^3.4.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-dropzone": "^10.1.6",
+    "react-modal": "^3.9.1",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "^3.4.1",
+    "react-select": "^3.0.4",
+    "react-toastify": "^5.3.2",
+    "styled-components": "^4.3.2",
+    "styled-icons": "^8.3.0",
+    "styled-theming": "^2.2.0",
+    "xlsx": "^0.14.4"
+  },
+  "scripts": {
+    "dev": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

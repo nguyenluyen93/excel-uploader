@@ -1,0 +1,11 @@
+FROM node:10
+
+RUN yarn global add env-cmd
+
+WORKDIR /app
+
+COPY package.json ./
+
+RUN yarn install
+
+CMD [ "yarn", "run", "dev" ]

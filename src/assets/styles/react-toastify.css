@@ -1,0 +1,42 @@
+/* Default */
+
+.Toastify__toast--success {
+  background-color: rgba(56, 178, 172, 0.8);
+}
+
+.Toastify__toast--error {
+  background-color: rgba(245, 101, 101, 0.8);
+}
+
+.Toastify__toast--info {
+  background-color: rgba(66, 153, 225, 0.8);
+}
+
+.Toastify__toast--warning {
+  background-color: rgba(236, 201, 75, 0.8);
+}
+
+.Toastify__toast {
+  border-radius: 4px;
+  padding-left: 2rem;
+}
+
+/* Top-center */
+
+.Toastify__toast-container.Toastify__container--lg {
+  width: 520px;
+}
+
+.Toastify__toast-container--top-center.Toastify__container--lg {
+  margin-left: -260px;
+}
+
+.Toastify__toast-container--top-center.Toastify__container--lg
+  .Toastify__toast--error {
+  background-color: rgba(237, 100, 166, 0.8);
+}
+
+.Toastify__toast-container--top-center.Toastify__container--lg
+  .Toastify__toast--warning {
+  background-color: rgba(214, 158, 46, 0.8);
+}
