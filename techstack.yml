@@ -1,0 +1,407 @@
+repo_name: nguyenluyen93/excel-uploader
+report_id: 07def6d366fc76b1c3e0898b0a5193dd
+repo_type: Public
+timestamp: '2023-12-05T06:51:18+00:00'
+requested_by: nguyenluyen93
+provider: github
+branch: master
+detected_tools_count: 29
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  version: 10.0.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: github.com/nguyenluyen93/excel-uploader/blob/master/Dockerfile
+  detection_source: Dockerfile
+  last_updated_by: LuyenNH
+  last_updated_on: 2020-08-04 02:14:40.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: github.com/nguyenluyen93/excel-uploader/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: LuyenNH
+  last_updated_on: 2020-08-04 02:14:40.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: github.com/nguyenluyen93/excel-uploader/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: LuyenNH
+  last_updated_on: 2020-08-04 02:14:40.000000000 Z
+- name: styled-components
+  description: Visual primitives for the component age. Use the best bits of ES6 and
+    CSS to style your apps without stress.
+  website_url: https://styled-components.com
+  version: 4.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/6749/styled-components.png
+  detection_source_url: github.com/nguyenluyen93/excel-uploader/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: LuyenNH
+  last_updated_on: 2020-08-04 02:14:40.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source: yarn.lock
+  last_updated_by: LuyenNH
+  last_updated_on: 2020-08-04 02:14:40.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: package.json
+  last_updated_by: LuyenNH
+  last_updated_on: 2020-08-04 02:14:40.000000000 Z
+- name: Poli
+  description: 'An easy-to-use SQL reporting application '
+  website_url: https://github.com/shzlw/poli
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Analytics
+  sub_category: Business Intelligence
+  image_url: https://img.stackshare.io/service/11232/no-img-open-source.png
+  detection_source: package.json
+  last_updated_by: LuyenNH
+  last_updated_on: 2020-08-04 02:14:40.000000000 Z
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: public/index.html
+  last_updated_by: LuyenNH
+  last_updated_on: 2020-08-04 02:14:40.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.15
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: github.com/nguyenluyen93/excel-uploader/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: LuyenNH
+  last_updated_on: 2020-08-04 02:14:40.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.19.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: github.com/nguyenluyen93/excel-uploader/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: LuyenNH
+  last_updated_on: 2020-08-04 02:14:40.000000000 Z
+- name: date-fns
+  description: Modern JavaScript date utility library
+  website_url: https://date-fns.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png
+  detection_source: package.json
+  last_updated_by: LuyenNH
+  last_updated_on: 2020-08-04 02:14:40.000000000 Z
+- name: ag-grid-community
+  description: Advanced Data Grid / Data Table supporting Javascript / Typescript
+    / React / Angular / Vue
+  package_url: https://www.npmjs.com/ag-grid-community
+  version: 21.2.2
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: github.com/nguyenluyen93/excel-uploader/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: LuyenNH
+  last_updated_on: 2020-08-04 02:14:40.000000000 Z
+- name: ajv
+  description: Another JSON Schema Validator
+  package_url: https://www.npmjs.com/ajv
+  version: 6.12.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16186/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: github.com/nguyenluyen93/excel-uploader/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: LuyenNH
+  last_updated_on: 2020-08-04 02:14:40.000000000 Z
+- name: ajv-keywords
+  description: Custom JSON-Schema keywords for Ajv validator
+  package_url: https://www.npmjs.com/ajv-keywords
+  version: 3.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18732/default_c097ed60550ab63ecbc7eb43da3b16d3da8488c3.png
+  detection_source_url: github.com/nguyenluyen93/excel-uploader/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: LuyenNH
+  last_updated_on: 2020-08-04 02:14:40.000000000 Z
+- name: cuid
+  description: Collision-resistant ids optimized for horizontal scaling and performance
+  package_url: https://www.npmjs.com/cuid
+  version: 2.1.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17189/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: github.com/nguyenluyen93/excel-uploader/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: LuyenNH
+  last_updated_on: 2020-08-04 02:14:40.000000000 Z
+- name: jwt-decode
+  description: Decode JWT tokens, mostly useful for browser applications
+  package_url: https://www.npmjs.com/jwt-decode
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17395/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: github.com/nguyenluyen93/excel-uploader/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: LuyenNH
+  last_updated_on: 2020-08-04 02:14:40.000000000 Z
+- name: polished
+  description: A lightweight toolset for writing styles in Javascript
+  package_url: https://www.npmjs.com/polished
+  version: 3.6.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16665/default_ee69dab268e6a52104564fd4259549f5b48a25d4.png
+  detection_source_url: github.com/nguyenluyen93/excel-uploader/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: LuyenNH
+  last_updated_on: 2020-08-04 02:14:40.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: github.com/nguyenluyen93/excel-uploader/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: LuyenNH
+  last_updated_on: 2020-08-04 02:14:40.000000000 Z
+- name: react-dropzone
+  description: Simple HTML5 drag-drop zone with React.js
+  package_url: https://www.npmjs.com/react-dropzone
+  version: 10.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16979/default_665377899254fe85c1cf6bf7f15e24c4180a76ac.png
+  detection_source_url: github.com/nguyenluyen93/excel-uploader/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: LuyenNH
+  last_updated_on: 2020-08-04 02:14:40.000000000 Z
+- name: react-modal
+  description: Accessible modal dialog component for React.JS
+  package_url: https://www.npmjs.com/react-modal
+  version: 3.11.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16926/default_ebf16e0c8af5e95030933d9e01479224b6665289.png
+  detection_source_url: github.com/nguyenluyen93/excel-uploader/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: LuyenNH
+  last_updated_on: 2020-08-04 02:14:40.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: github.com/nguyenluyen93/excel-uploader/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: LuyenNH
+  last_updated_on: 2020-08-04 02:14:40.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 3.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: github.com/nguyenluyen93/excel-uploader/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: LuyenNH
+  last_updated_on: 2020-08-04 02:14:40.000000000 Z
+- name: react-select
+  description: A Select control built with and for ReactJS
+  package_url: https://www.npmjs.com/react-select
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16452/default_d634bba6819a28b85a138b7ded782cadbfa6a482.png
+  detection_source_url: github.com/nguyenluyen93/excel-uploader/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: LuyenNH
+  last_updated_on: 2020-08-04 02:14:40.000000000 Z
+- name: react-toastify
+  description: React notification made easy
+  package_url: https://www.npmjs.com/react-toastify
+  version: 5.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18461/default_5ff724c0ff89bb42698aa80ef3403008cb0d8f72.png
+  detection_source_url: github.com/nguyenluyen93/excel-uploader/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: LuyenNH
+  last_updated_on: 2020-08-04 02:14:40.000000000 Z
+- name: xlsx
+  description: SheetJS Spreadsheet data parser and writer
+  package_url: https://www.npmjs.com/xlsx
+  version: 0.14.5
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16781/default_c6eddffbed005d007ab4638fbcac90e4b79576b2.png
+  detection_source_url: github.com/nguyenluyen93/excel-uploader/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: LuyenNH
+  last_updated_on: 2020-08-04 02:14:40.000000000 Z
+  vulnerabilities:
+  - name: Prototype Pollution in sheetJS
+    cve_id: CVE-2023-30533
+    cve_url: https://github.com/advisories/GHSA-4r6h-8v6p-xvw6
+    detected_date: Apr 25
+    severity: high
+    first_patched: 0.19.3
+  - name: Denial of Service in SheetsJS Pro
+    cve_id: CVE-2021-32013
+    cve_url: https://github.com/advisories/GHSA-8vcr-vxm8-293m
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 0.17.0
+  - name: Denial of Service in SheetJS Pro
+    cve_id: CVE-2021-32012
+    cve_url: https://github.com/advisories/GHSA-3x9f-74h4-2fqr
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 0.17.0
+  - name: Denial of Service in SheetJS Pro
+    cve_id: CVE-2021-32014
+    cve_url: https://github.com/advisories/GHSA-g973-978j-2c3p
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 0.17.0
