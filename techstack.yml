@@ -2,7 +2,7 @@ repo_name: nguyenluyen93/excel-uploader
 report_id: 07def6d366fc76b1c3e0898b0a5193dd
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:28:57+00:00'
+timestamp: '2024-02-29T18:58:20+00:00'
 requested_by: nguyenluyen93
 provider: github
 branch: master
@@ -132,7 +132,7 @@ tools:
   last_updated_by: LuyenNH
   last_updated_on: 2020-08-04 02:14:40.000000000 Z
 - name: Poli
-  description: 'An easy-to-use SQL reporting application '
+  description: An easy-to-use SQL reporting application
   website_url: https://github.com/shzlw/poli
   license: MIT
   open_source: true
